@@ -7,6 +7,7 @@
   "job_description": ["后台工程师", "软件工程师", "python工程师", "c#工程师", "java工程师"],
   "contact": {
     "email": "genesicgao@gmail.com",
+    "phone": "18662243660",
     "wechat": {
       "id": "qq14841787",
       "qrcode": "static/wechat.svg"
@@ -18,30 +19,17 @@
   "links":[],
   "education": [{
     "type": "undergraduate",
-    "name": "中山大学",
-    "major": "软件工程",
-    "start": "2012",
-    "end": "2016",
-    "honor": [
-      "2012 - 2013 学年度校**三等奖学金**",
-      "2013 - 2014 学年度校**一等奖学金**"
-    ]
+    "name": "成都信息工程学院",
+    "major": "环境工程",
+    "start": "2006",
+    "end": "2010",
+    "honor": []
   }],
   "language": [{
     "type": "english",
-    "certificate": [{
-      "type": "CET-4",
-      "full": "710",
-      "score": "679"
-    }, {
-      "type": "CET-6",
-      "full": "710",
-      "score": "616"
-    }],
+    "certificate": [],
     "description": [
-      "能流畅阅读英文专业书籍、文档及其他资料",
-      "可无字幕观看 MOOC 课程、开发者大会视频",
-      "能够在英文邮件列表、Stack Overflow 等社区正常交流"
+      "能流畅阅读英文文档，API等。"
     ]
   }],
   "experience": [{
