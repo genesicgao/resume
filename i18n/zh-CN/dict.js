@@ -6,6 +6,7 @@ module.exports = {
     skill_type: {
         "frontend": "Web 前端",
         "backend": "Web 后端",
+        "client": "客户端",
         "miscellaneous": "其他"
     },
     education_type: {

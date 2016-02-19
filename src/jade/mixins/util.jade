@@ -70,6 +70,10 @@ mixin skills_backend(item)
   +skills_basic(item)(attributes)
 
 
+mixin skills_client(item)
+  +skills_basic(item)(attributes)
+
+
 mixin skills_miscellaneous(item)
     ul.skills-description.skills-miscellaneous.timeline-content
       each desc in item.item
