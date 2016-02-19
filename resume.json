@@ -86,7 +86,8 @@
       "description": [
         "时间：2012/10-2013/5",
         "开发工具：vs2012 ",
-        "硬件环境：windows 软件环境：.net3.5 ",
+        "硬件环境：windows ",
+        "软件环境：.net3.5 ",
         "项目描述：基于C#开发的幼儿园学生考勤系统，集成了自己公司的硬件设备，用于对幼儿园学生接送打考勤并记录学生的体温体重。可以生成每月的学生考勤报表。",
         "责任描述：开发新功能，维护升级。"
       ],
@@ -103,7 +104,8 @@
       "description": [
         "时间：2013/5-2014/1",
         "开发工具：eclipse ",
-        "硬件环境：windows 软件环境：java,mysql ",
+        "硬件环境：windows ",
+        "软件环境：java,mysql ",
         "项目描述：基于java ssh框架开发的学生管理系统，可以管理学生信息，老师信息，学生考勤信息，老师考勤信息，课程安排，学校收费，发通知给家长等。学生考勤数据主要从TaidiiExe获得。",
         "责任描述：架构，开发，开发新功能，维护升级。"
       ],
@@ -120,7 +122,8 @@
       "description": [
         "开发工具：vs2012/2013 ",
         "开发工具：eclipse ",
-        "硬件环境：windows 软件环境：.net4.0 ",
+        "硬件环境：windows ",
+        "软件环境：.net4.0 ",
         "项目描述：第二版的TaidiiExe，集成了自己公司的硬件设备，用于对幼儿园学生接送打考勤并记录学生的体温体重。数据存在云端服务器。",
         "责任描述：架构，开发，开发新功能，维护升级。"
       ],
@@ -137,7 +140,8 @@
       "description": [
         "时间：2013/9-至今",
         "开发工具：pycharm ",
-        "硬件环境：ubuntu/fedora 软件环境：python2.7，django，mysql，rest framework，celery，gunicorn，supervisor，nginx。 ",
+        "硬件环境：ubuntu/fedora ",
+        "软件环境：python2.7，django，mysql，rest framework，celery，gunicorn，supervisor，nginx。 ",
         "项目描述：基于python django开发的Taidii Cloud的升级版。使用supervisor维持进程，使用nginx反向代理。",
         "责任描述：开发，开发新功能，维护升级。"
       ],
@@ -154,7 +158,8 @@
       "description": [
         "时间：2015/11-至今",
         "开发工具：pycharm,webstorm ",
-        "硬件环境：ubuntu 软件环境：python2.7，django，rest framework，nodejs，react。 ",
+        "硬件环境：ubuntu ",
+        "软件环境：python2.7，django，rest framework，nodejs，react。 ",
         "项目描述：为补习班开发的排课及考勤系统。使用rest framework写后台api，用react做前端页面。是公司技术人员商量后第一次前后端分离的尝试。",
         "责任描述：架构，开发，开发新功能，维护升级。"
       ],
@@ -193,6 +198,17 @@
       ]
     },
     {
+      "type": "frontend",
+      "item": [
+        {
+          "summary": "`Javascript`",
+          "description": [
+            "熟悉`javascript`会使用`chrome开发者工具`等调试`javascript`代码，熟悉`JQuery`框架"
+          ]
+        }
+      ]
+    },
+    {
       "type": "client",
       "item": [
         {
@@ -209,7 +225,7 @@
       "item": [
         "拥有三年多的运维经验，熟悉`ubuntu`等linux的基本操作",
         "熟悉`github`的使用以及在github上寻找开源工具的经验",
-        "熟悉`aws`的使用，有购买`EC2`，`S3`,`RDS`及使用它们架设服务器的经验",
+        "熟悉`aws`的使用，有购买`EC2`, `S3`, `RDS`及使用它们架设服务器的经验",
         "熟悉`nginx`的使用",
         "熟悉`mysql`，`redis`的使用",
         "有使用`apache`发布php项目的经验",
