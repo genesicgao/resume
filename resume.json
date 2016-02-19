@@ -4,7 +4,13 @@
   "resume_title": "高頔 - 个人简历",
   "name": "高頔",
   "repo": "",
-  "job_description": ["后台工程师", "软件工程师", "python工程师", "c#工程师", "java工程师"],
+  "job_description": [
+    "后台工程师",
+    "软件工程师",
+    "python工程师",
+    "c#工程师",
+    "java工程师"
+  ],
   "contact": {
     "email": "genesicgao@gmail.com",
     "phone": "18662243660",
@@ -16,81 +22,199 @@
       "id": "genesicgao"
     }
   },
-  "links":[],
-  "education": [{
-    "type": "undergraduate",
-    "name": "成都信息工程学院",
-    "major": "环境工程",
-    "start": "2006",
-    "end": "2010",
-    "honor": []
-  }],
-  "language": [{
-    "type": "english",
-    "certificate": [],
-    "description": [
-      "能流畅阅读英文文档，API等。"
-    ]
-  }],
-  "experience": [{
-    "type": "fulltime",
-    "techtype": "backend",
-    "place": "苏州智泰腾迪信息科技有限公司 后台开发",
-    "start": "2012.10",
-    "end": "至今",
-    "name": "后台开发 运维",
-    "description": [
-      "负责公司新项目的构架",
-      "负责参与公司新项目的开发",
-      "负责项目在git上的管理",
-      "负责项目的发布"
-    ],
-    "stack": [],
-    "compatibility": "chrome"
-  }],
-  "skills": [{
-    "type": "backend",
-    "item": [{
-      "summary": "`Python`",
+  "links": [],
+  "education": [
+    {
+      "type": "undergraduate",
+      "name": "成都信息工程学院",
+      "major": "环境工程",
+      "start": "2006",
+      "end": "2010",
+      "honor": []
+    }
+  ],
+  "language": [
+    {
+      "type": "english",
+      "certificate": [],
       "description": [
-        "拥有三年的`Python`学习及使用经验",
-        "能熟练够使用`django`框架开发Web应用，拥有整个项目的从架构到上线的经验",
-        "能熟练使用`rest framework`开发`api`",
-        "能熟练使用`celery`管理定时任务",
-        "能熟练使用`supervisor`维持服务进程",
-        "对`shadowsocks`，`smartqqbot`等一些基于python的开源项目做过研究"
+        "能流畅阅读英文文档，API等。"
       ]
-    },{
-        "summary": "`Java`",
-        "description": [
-          "拥有两年的`Java`学习及使用经验",
-          "熟悉`SSH三大框架`及`JSP`等技术"
-        ]
-    },{
-      "summary": "`Nodejs`",
+    }
+  ],
+  "experience": [
+    {
+      "type": "fulltime",
+      "techtype": "backend",
+      "place": "苏州智泰腾迪信息科技有限公司 后台开发",
+      "start": "2012.10",
+      "end": "至今",
+      "name": "后台开发 运维",
       "description": [
-        "有开发基于`react`框架的前后断分离的服务的经验"
-      ]
-    }]
-  }, {
-    "type": "client",
-    "item": [{
-      "summary": "`C#`",
+        "负责公司新项目的构架",
+        "负责参与公司新项目的开发",
+        "负责项目在git上的管理",
+        "负责项目的发布",
+        "负责项目的运维"
+      ],
+      "stack": [],
+      "compatibility": "chrome"
+    },
+    {
+      "type": "fulltime",
+      "techtype": "backend",
+      "place": "合力金桥软件科技有限公司 后台开发",
+      "start": "2012.7",
+      "end": "2012.9",
+      "name": "后台开发 测试",
       "description": [
-        "拥有四年的`C#`开发客户端经验",
-        "熟悉基于串口通讯的硬件集成"
+        "参与公司项目及软件产品程序的开发设计",
+        "编写开发文档，根据要求编写程序代码",
+        "对程序进行模块及整体调试",
+        "公司分配的其他工作"
+      ],
+      "stack": [],
+      "compatibility": "IE7"
+    },
+    {
+      "type": "project",
+      "techtype": "backend",
+      "project_type": "corporate",
+      "name": "Taidii Exe V1",
+      "source": "",
+      "demo": "",
+      "description": [
+        "时间：2012/10-2013/5",
+        "开发工具：vs2012 ",
+        "硬件环境：windows 软件环境：.net3.5 ",
+        "项目描述：基于C#开发的幼儿园学生考勤系统，集成了自己公司的硬件设备，用于对幼儿园学生接送打考勤并记录学生的体温体重。可以生成每月的学生考勤报表。",
+        "责任描述：开发新功能，维护升级。"
+      ],
+      "stack": [],
+      "compatibility": "windows"
+    },
+    {
+      "type": "project",
+      "techtype": "backend",
+      "project_type": "corporate",
+      "name": "Taidii Cloud V1 ",
+      "source": "",
+      "demo": "",
+      "description": [
+        "时间：2013/5-2014/1",
+        "开发工具：eclipse ",
+        "硬件环境：windows 软件环境：java,mysql ",
+        "项目描述：基于java ssh框架开发的学生管理系统，可以管理学生信息，老师信息，学生考勤信息，老师考勤信息，课程安排，学校收费，发通知给家长等。学生考勤数据主要从TaidiiExe获得。",
+        "责任描述：架构，开发，开发新功能，维护升级。"
+      ],
+      "stack": [],
+      "compatibility": "chrome"
+    },
+    {
+      "type": "project",
+      "techtype": "backend",
+      "project_type": "corporate",
+      "name": "TaidiiExe V2 ",
+      "source": "",
+      "demo": "",
+      "description": [
+        "开发工具：vs2012/2013 ",
+        "开发工具：eclipse ",
+        "硬件环境：windows 软件环境：.net4.0 ",
+        "项目描述：第二版的TaidiiExe，集成了自己公司的硬件设备，用于对幼儿园学生接送打考勤并记录学生的体温体重。数据存在云端服务器。",
+        "责任描述：架构，开发，开发新功能，维护升级。"
+      ],
+      "stack": [],
+      "compatibility": "chrome"
+    },
+    {
+      "type": "project",
+      "techtype": "backend",
+      "project_type": "corporate",
+      "name": "Taidii V2 ",
+      "source": "",
+      "demo": "",
+      "description": [
+        "时间：2013/9-至今",
+        "开发工具：pycharm ",
+        "硬件环境：ubuntu/fedora 软件环境：python2.7，django，mysql，rest framework，celery，gunicorn，supervisor，nginx。 ",
+        "项目描述：基于python django开发的Taidii Cloud的升级版。使用supervisor维持进程，使用nginx反向代理。",
+        "责任描述：开发，开发新功能，维护升级。"
+      ],
+      "stack": [],
+      "compatibility": "chrome"
+    },
+    {
+      "type": "project",
+      "techtype": "backend",
+      "project_type": "corporate",
+      "name": "Taidii Enrichment ",
+      "source": "",
+      "demo": "",
+      "description": [
+        "时间：2015/11-至今",
+        "开发工具：pycharm,webstorm ",
+        "硬件环境：ubuntu 软件环境：python2.7，django，rest framework，nodejs，react。 ",
+        "项目描述：为补习班开发的排课及考勤系统。使用rest framework写后台api，用react做前端页面。是公司技术人员商量后第一次前后端分离的尝试。",
+        "责任描述：架构，开发，开发新功能，维护升级。"
+      ],
+      "stack": [],
+      "compatibility": "chrome"
+    }
+  ],
+  "skills": [
+    {
+      "type": "backend",
+      "item": [
+        {
+          "summary": "`Python`",
+          "description": [
+            "拥有三年的`Python`学习及使用经验",
+            "能熟练够使用`django`框架开发Web应用，拥有整个项目的从架构到上线的经验",
+            "能熟练使用`rest framework`开发`api`",
+            "能熟练使用`celery`管理定时任务",
+            "能熟练使用`supervisor`维持服务进程",
+            "对`shadowsocks`，`smartqqbot`等一些基于python的开源项目做过研究"
+          ]
+        },
+        {
+          "summary": "`Java`",
+          "description": [
+            "拥有两年的`Java`学习及使用经验",
+            "熟悉`SSH三大框架`及`JSP`等技术"
+          ]
+        },
+        {
+          "summary": "`Nodejs`",
+          "description": [
+            "有开发基于`react`框架的前后断分离的服务的经验"
+          ]
+        }
       ]
-    }]
-  }, {
-    "type": "miscellaneous",
-    "item": [
-      "拥有三年多的运维经验，熟悉`ubuntu`等linux的基本操作",
-      "熟悉`github`的使用以及在github上寻找开源工具的经验",
-      "熟悉`aws`的使用，有购买`EC2`，`S3`,`RDS`及使用它们架设服务器的经验",
-      "熟悉`nginx`的使用",
-      "熟悉`mysql`，`redis`的使用",
-      "有使用`apache`发布php项目的经验",
-      "熟悉`godaddy`,`万网`等域名服务商的使用，以及域名解析，配置https等操作"
-    ]
-  }]
+    },
+    {
+      "type": "client",
+      "item": [
+        {
+          "summary": "`C#`",
+          "description": [
+            "拥有四年的`C#`开发客户端经验",
+            "熟悉基于串口通讯的硬件集成"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "miscellaneous",
+      "item": [
+        "拥有三年多的运维经验，熟悉`ubuntu`等linux的基本操作",
+        "熟悉`github`的使用以及在github上寻找开源工具的经验",
+        "熟悉`aws`的使用，有购买`EC2`，`S3`,`RDS`及使用它们架设服务器的经验",
+        "熟悉`nginx`的使用",
+        "熟悉`mysql`，`redis`的使用",
+        "有使用`apache`发布php项目的经验",
+        "熟悉`godaddy`,`万网`等域名服务商的使用，以及域名解析，配置https等操作"
+      ]
+    }
+  ]
 }

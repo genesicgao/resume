@@ -42,6 +42,7 @@ module.exports = {
         demo: "Demo"
     },
     project_type: {
-        "personal": "个人项目"
+        "personal": "个人项目",
+        "corporate": "公司项目"
     }
 };
