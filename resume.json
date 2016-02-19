@@ -17,26 +17,9 @@
     },
     "github": {
       "id": "joyeecheung"
-    },
-    "blog": {
-      "url": "http://joyeecheung.cnblogs.com"
     }
   },
-  "links": [{
-    "type": "repo",
-    "url": "https://github.com/joyeecheung/resume"
-
-  }, {
-    "type": "pdf",
-    "url": "static/joyeecheung.pdf"
-
-  }, {
-    "type": "zhihu",
-    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
-  }, {
-    "type": "doubanbook",
-    "url": "http://book.douban.com/people/joyee-cheung/"
-  }],
+  "links":[],
   "education": [{
     "type": "undergraduate",
     "name": "中山大学",
