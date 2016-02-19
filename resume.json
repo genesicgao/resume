@@ -1,22 +1,18 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
-  "repo": "https://github.com/joyeecheung/resume.git",
-  "job_description": ["前端工程师", "软件工程师"],
+  "resume_title": "高頔 - 个人简历",
+  "name": "高頔",
+  "repo": "",
+  "job_description": ["后台工程师", "软件工程师", "python工程师", "c#工程师", "java工程师"],
   "contact": {
-    "email": "joyeec9h3@gmail.com",
+    "email": "genesicgao@gmail.com",
     "wechat": {
-      "id": "joyee-cheung",
+      "id": "qq14841787",
       "qrcode": "static/wechat.svg"
     },
-    "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
-    },
     "github": {
-      "id": "joyeecheung"
+      "id": "genesicgao"
     }
   },
   "links":[],
